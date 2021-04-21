@@ -1,9 +1,9 @@
 {
-    "name": "bullbyte/mpa",
+    "name": "bullbyte/ecommerce",
     "authors": [
         {
             "name": "BullByte",
-            "email": "pallinho@gmail.com"
+            "email": "joao.paulo.santos@msn.com"
         }
     ],
     "require": {
